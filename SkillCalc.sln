@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillCalc", "SkillCalc\SkillCalc.csproj", "{BB97151B-2248-4961-82E4-7F7B60546F8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB97151B-2248-4961-82E4-7F7B60546F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB97151B-2248-4961-82E4-7F7B60546F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB97151B-2248-4961-82E4-7F7B60546F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB97151B-2248-4961-82E4-7F7B60546F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E121298-87B6-434F-9275-00F63720A6F0}
+	EndGlobalSection
+EndGlobal
